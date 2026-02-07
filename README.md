@@ -15,8 +15,18 @@ This portfolio is my sandbox where I test ideas, build security projects, and sh
 
 ---
 
-## 🛠 Skills
+<!-- ## 🛠 Skills -->
 
+## 🛠 Skills In Progress
+
+Currently building hands-on experience through:
+* Network traffic analysis (Wireshark, Nmap)
+* Security frameworks (MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain)
+* SIEM fundamentals (Splunk concepts via TryHackMe)
+* SOC workflows and incident triage
+
+**Goal:** Complete SOC automation lab by Q3 2025
+<!--
 | Skill | Associated Project |
 |-------|--------------------|
 | **SIEM Implementation and Log Analysis** | [Detection Lab](#-detection-lab) |
@@ -25,7 +35,7 @@ This portfolio is my sandbox where I test ideas, build security projects, and sh
 | **Incident Response Planning and Execution** | [SOC Automation Lab](#-soc-automation-project) |
 | **Case Management with TheHive** | [SOC Automation Lab](#-soc-automation-project) |
 | **Scripting and Automation for Threat Mitigation** | [SOC Automation Lab](#-soc-automation-project) |
-
+-->
 ---
 
 ## 🧰 Tools
