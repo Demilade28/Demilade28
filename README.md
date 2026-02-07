@@ -1,6 +1,6 @@
 # Hello, I'm Demilade 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](http://bit.ly/3JubA67)
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/rockstarben.png)](https://tryhackme.com/p/rockstarben)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](http://bit.ly/3JubA67)
 
 
 I’m a **third-year cybersecurity student** on a journey to earn my **Security+** and **Network+**.  
