@@ -1,5 +1,7 @@
 Core SOC Solutions - TryHackMe
+
 Completed: February 7 2026
+
 Learning Path: SOC Level 1
 What I Learned
 This module broke down the three main tools that keep a SOC running: SIEM, EDR, and SOAR. Before this, I knew these were "important security tools," but now I actually understand what each one does and why SOCs can't function without them.
