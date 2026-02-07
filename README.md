@@ -57,6 +57,24 @@ This portfolio is my sandbox where I test ideas, build security projects, and sh
 
 ---
 
+---
+## 🎮 Hands-On Practice
+
+### TryHackMe
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YourUsername)
+
+**Current Progress:**
+- 🏆 Rank: 177581
+- ✅ Rooms Completed: 44
+- 🎯 Focus Areas: SOC Level 1, Network Security, Incident Response
+
+**Notable Completed Rooms:**
+- **[Room Name]** - Brief description of what you learned
+- **[Room Name]** - Brief description of what you learned
+- **[Room Name]** - Brief description of what you learned
+
+---
+
 ## 🚀 Projects
 <!--
 ### 🔎 Detection Lab
