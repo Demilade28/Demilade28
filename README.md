@@ -66,13 +66,12 @@ This portfolio is my sandbox where I test ideas, build security projects, and sh
 **Current Progress:**
 - 🏆 Rank: 177581
 - ✅ Rooms Completed: 44
-- 🎯 Focus Areas: SOC Level 1, Network Security, Incident Response
+- 🎯 Focus: SOC Level 1 Path
 
-**Notable Completed Rooms:**
-- **[Room Name]** - Brief description of what you learned
-- **[Room Name]** - Brief description of what you learned
-- **[Room Name]** - Brief description of what you learned
 
+Completed Modules:
+* ✅ **Core SOC Solutions** *(Feb 2026)* - [📝 Writeup](./writeups/soc-level-1/core-soc-solutions.md)
+  * Learned SIEM, EDR, and SOAR fundamentals and how they work together in a SOC environment
 ---
 
 ## 🚀 Projects
