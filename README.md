@@ -70,7 +70,7 @@ This portfolio is my sandbox where I test ideas, build security projects, and sh
 
 
 Completed Modules:
-* ✅ **Core SOC Solutions** *(Feb 2026)* - [📝 Writeup](./writeups/soc-level-1/core-soc-solutions.md)
+* ✅ **Core SOC Solutions** *(Feb 7 2026)* - [📝 Writeup](./writeups/soc-level-1/core-soc-solutions.md)
   * Learned SIEM, EDR, and SOAR fundamentals and how they work together in a SOC environment
 ---
 
