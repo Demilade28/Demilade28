@@ -3,8 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](http://bit.ly/3JubA67)
 
 
-I’m a **third-year cybersecurity student** on a journey to earn my **Security+** and **Network+**.  
-Along the way, I’m building hands-on projects, experimenting in labs, and having fun breaking (and fixing) things in the name of security. 🚀  
+# Hi, I'm Demilade 👋
+
+Final-year **Cybersecurity** student at Lead City University, Nigeria, aiming for a career as a **SOC Analyst** with a focus on **digital forensics and incident response**.
+I'm working toward **Security+** and **Network+**, building hands-on labs, and having fun breaking (and fixing) things in the name of security. 🚀
+
 
 ---
 
@@ -61,9 +64,9 @@ Currently building hands-on experience through:
 
 ## 📜 Certifications
 - [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
- *(In Progress – Exam Sept 25, 2025)*  
+ *(Expected june 2026)*  
 - [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-orange?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
- *(Planned – Sept 2025)*  
+ *(Planned – Sept 2026)*  
 
 ---
 
@@ -85,6 +88,14 @@ Completed Modules:
 ---
 
 ## 🚀 Projects
+### 🖥️ KVM/QEMU Hypervisor Home Lab
+- **Goal**: Build a virtualized lab on bare-metal Ubuntu to practise server, domain and network administration.
+- **Tools**: KVM/QEMU, libvirt, virsh, Ubuntu 24.04, Windows Server 2022, Active Directory
+- **Highlights**:
+  - Deployed three VMs (Windows Server 2022, Ubuntu 24.04, Ubuntu 20.04) on a multi-disk storage layout.
+  - Set up an Active Directory domain with DNS and DHCP, on a libvirt NAT network.
+  - Documented the build in daily journals, with 15+ incidents and their fixes.
+- **Repo**: [homelab-kvm-hypervisor](https://github.com/Demilade28/homelab-kvm-hypervisor)
 <!--
 ### 🔎 Detection Lab
 - **Goal**: Build a home lab environment to simulate and detect malicious activity.  
