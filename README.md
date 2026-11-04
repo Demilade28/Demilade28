@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](http://bit.ly/3JubA67)
 
 
-# Hi, I'm Demilade 👋
 
 Final-year **Cybersecurity** student at Lead City University, Nigeria, aiming for a career as a **SOC Analyst** with a focus on **digital forensics and incident response**.
 I'm working toward **Security+** and **Network+**, building hands-on labs, and having fun breaking (and fixing) things in the name of security. 🚀
@@ -28,7 +27,7 @@ Currently building hands-on experience through:
 * SIEM fundamentals (Splunk concepts via TryHackMe)
 * SOC workflows and incident triage
 
-**Goal:** Complete SOC automation lab by Q3 2025
+<!--**Goal:** Complete SOC automation lab by Q3 2025
 <!--
 | Skill | Associated Project |
 |-------|--------------------|
@@ -64,11 +63,10 @@ Currently building hands-on experience through:
 
 ## 📜 Certifications
 - [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
- *(Expected june 2026)*  
+ *(Expected june 2027)*  
 - [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-orange?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
- *(Planned – Sept 2026)*  
+ *(Planned – Sept 2027)*  
 
----
 
 ---
 ## 🎮 Hands-On Practice
